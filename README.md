@@ -1,2 +1,2 @@
-# open_lidar_analytics
-Open LiDAR Analytics - Experiments on Data Analytics tools for LiDAR data
+# Open LiDAR Analytics
+Experimenting on the use of Data Analytics tools for LiDAR data
