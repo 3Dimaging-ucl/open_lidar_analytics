@@ -8,6 +8,8 @@ Suggested mini experiments:
 - Benchmark load / save against PDAL
 - Benchmark compression rate (vs specialized laszip)
 - Interface with Open3D
+
+More complex experiments
 - Indexing schemata (Z-order, Hilbert, Hashing, …)
 - Interface to SparkML or MxNet (Deep Learning)
 
