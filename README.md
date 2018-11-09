@@ -7,7 +7,7 @@ Suggested mini experiments:
 - [Save point cloud to HDF5](src/writing_pandas_hdf5.ipynb)
 - Benchmark load / save against PDAL
 - Benchmark compression rate (vs specialized laszip)
-- Interface with Open3D
+- [Interface with Open3D](src/LAS_Pandas_open3D.ipynb)
 
 More complex experiments
 - Indexing schemata (Z-order, Hilbert, Hashing, …)
