@@ -1,0 +1,9 @@
+
+src/.ipynb_checkpoints/writing_pandas_parquet-checkpoint.ipynb
+src/.ipynb_checkpoints/writing_pandas_hdf5-checkpoint.ipynb
+src/.ipynb_checkpoints/reading_laspy_pandas-checkpoint.ipynb
+data/test_fastparquet_compressed.parq/part.0.parquet
+data/test_fastparquet_compressed.parq/_metadata
+data/test.parquet
+data/test.parquet.gzip
+data/test_fastparquet_compressed.parq/_common_metadata
