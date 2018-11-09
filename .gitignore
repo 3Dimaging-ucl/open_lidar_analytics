@@ -7,3 +7,4 @@ data/test_fastparquet_compressed.parq/_metadata
 data/test.parquet
 data/test.parquet.gzip
 data/test_fastparquet_compressed.parq/_common_metadata
+src/.ipynb_checkpoints/LAS_Pandas_Open3D-checkpoint.ipynb
